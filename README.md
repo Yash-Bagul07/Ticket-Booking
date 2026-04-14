@@ -53,7 +53,7 @@ You can download them from [nodejs.org](https://nodejs.org).
 Clone the repository:
 
 ```bash
-git clone https://github.com/Vedantk1919/Ticket-Booking.git
+git clone https://github.com/Yash-Bagul07/Ticket-Booking.git
 ```
 
 Navigate into the project directory:
